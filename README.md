@@ -3,7 +3,7 @@
 ## Group Members
 - Khayalethu Shezi – Excel Analysis
 - Celimpilo Gumede – Excel Analysis
-- Aaobakwe Modillane – Python Data Cleaning (Part 3)
+- Aobakwe Modillane – Python Data Cleaning (Part 3)
 - Nondumiso Mtshilibe – Python HR KPIs (Part 4)
 
 ## Project Overview
