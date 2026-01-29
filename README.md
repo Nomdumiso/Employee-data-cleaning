@@ -4,7 +4,7 @@
 - Khayalethu Shezi – Excel Analysis
 - Celimpilo Gumede – Excel Analysis
 - Aobakwe Modillane – Python Data Cleaning (Part 3)
-- Nondumiso Mtshilibe – Python HR KPIs (Part 4)
+- Nomdumiso Mtshilibe – Python HR KPIs (Part 4)
 
 ## Project Overview
 This project analyzes an employee dataset using Microsoft Excel and Python. 
