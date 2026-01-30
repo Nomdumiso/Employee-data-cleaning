@@ -1,0 +1,156 @@
+employee_id,first_name,last_name,email,gender,department,job_title,hire_date,exit_date,is_active,salary,currency,country,state,city,manager_id,performance_score
+1001, Ken,Naidoo,ken.naidoo@example.com,Male,Human Resource,Sales Rep,2017-05-29 00:00:00,,1.0,55286.31,GBP,south-africa,Western Cape,,,
+1002,Sam,Smith,sam.smith@mail.com,M,H.R.,Sales Rep,04-27-2016,,1.0,29408.75,GBP,south-africa,,Johannesburg,1001.0,C
+1003, Oscar ,Mthembu ,oscar.mthembu@mail.com,Male,Operations,Engineer,2015-02-12 00:00:00,,0.0,35393.84,USD,SA,KZN,Cape Town,,
+1004, Sam ,Brown ,sam.brown@example,M,Sales,Senior Analyst,01-19-2016,,1.0,39890.2,GBP,USA,KZN,,1003.0,C
+1005,Faith ,Mthembu,faith.mthembu@mail.com,M,H.R.,Engineer,06-18-2019,2022-01-22,,25532.92,GBP,United Kingdom,,Polokwane,,B
+1006,Esi,Dlamini,esi.dlaminimail.com,M,Information Technology,Manager,2017-12-12 00:00:00,,0.0,35024.79,GBP,South Africa,Limpopo,,1005.0,D
+1007, David,Zuma,david.zuma@example.com,M,Sales,Manager,2016-03-26 00:00:00,2017-02-28,,34989.32,ZAR,U.K.,Western Cape,,1003.0,A
+1008, David ,Nguyen ,david.nguyen@example,Other,H.R.,Senior Analyst,2018-04-11 00:00:00,,1.0,13943.31,GBP,United States,Gauteng,,1006.0,
+1009, Liam,Naidoo ,liam.naidoo@mail.com,Other,Operations,Engineer,2017-07-09 00:00:00,2020-09-01,,47211.9,USD,United Kingdom,Western Cape,,1006.0,C
+1010,Chipo,Nkosi ,chipo.nkosi@mail.com,M,Sales,Analyst,05-17-2020,,1.0,42205.98,USD,SA,Limpopo,,1002.0,D
+1011,Mai,van Wyk,mai.van wykmail.com,F,Information Technology,Accountant,2022-05-10 00:00:00,,0.0,27494.85,ZAR,South Africa,Gauteng,,,B
+1012,Nia,Nguyen,nia.nguyen@company.co.za,F,Sales,Engineer,07-30-2021,,1.0,32941.42,GBP,United States,Limpopo,,,B
+1013,Que ,Khan,que.khan@example.com,F,H.R.,Manager,2016-02-08 00:00:00,,0.0,41063.59,ZAR,United States,Gauteng,Cape Town,1001.0,D
+1014,Rae ,Moyo ,rae.moyo@mail.com,Female,Sales,Sales Rep,12-24-2020,2023-12-30,,31863.72,ZAR,USA,Western Cape,Polokwane,1008.0,D
+1015, Chipo,Nkosi,chipo.nkosi@company.co.za,Other,H.R.,Accountant,2017-06-18 00:00:00,,1.0,32087.01,USD,United States,Limpopo,Durban,1006.0,A
+1016, Ken ,Khan,ken.khan@example,Other,Information Technology,Data Scientist,2020-09-29 00:00:00,,1.0,17561.1,ZAR,SA,KZN,,1007.0,D
+1017, Esi ,Khan,esi.khancompany.co.za,Other,Operations,Manager,2019-10-09 00:00:00,2020-05-07,,41654.96,ZAR,USA,Gauteng,Durban,,
+1018,Esi,Moyo,esi.moyocompany.co.za,Female,Finance,Data Scientist,01-19-2022,,1.0,36486.57,ZAR,South Africa,Gauteng,,1007.0,D
+1019, David ,Govender ,david.govender@company.co.za,Male,Finance,Clerk,03-24-2017,,0.0,38293.52,ZAR,south-africa,,,,A
+1020, Vin ,Nguyen,vin.nguyencompany.co.za,Female,H.R.,Manager,2018-01-06 00:00:00,,0.0,16681.71,USD,SA,Gauteng,Durban,1016.0,B
+1021,Que,Brown ,que.brown@example.com,F,Information Technology,Analyst,2019-06-02 00:00:00,,1.0,54808.4,ZAR,U.K.,KZN,,,B
+1022, Bob,Nguyen,bob.nguyen@mail.com,Male,Human Resource,Manager,2022-02-22 00:00:00,,1.0,36852.03,USD,United Kingdom,Gauteng,Polokwane,1017.0,
+1023, Chipo ,van Wyk,chipo.van wyk@company.co.za,Other,Operations,Engineer,2017-03-08 00:00:00,,0.0,30354.32,ZAR,ZA,Gauteng,Pretoria,1009.0,
+1024,Sam ,Naidoo,sam.naidoo@example,M,Information Technology,Senior Analyst,2022-06-10 00:00:00,,0.0,59348.87,GBP,ZA,KZN,Johannesburg,999999.0,A
+1025, Abel ,Khan ,abel.khan@mail.com,M,Finance,Senior Analyst,2021-07-09 00:00:00,,0.0,34455.37,GBP,United Kingdom,Gauteng,,1016.0,D
+1026,Alice ,Naidoo ,alice.naidoo@example,F,H.R.,HR Officer,2018-11-09 00:00:00,,0.0,17591.86,ZAR,South Africa,,Durban,1003.0,A
+1027, Liam,Smith ,liam.smithexample.com,M,Information Technology,Data Scientist,2022-02-13 00:00:00,,0.0,30137.27,ZAR,U.K.,,Pretoria,999999.0,D
+1028,Tari ,Brown ,tari.brown@example.com,M,Sales,Manager,11-30-2016,,0.0,7540.22,GBP,U.K.,Gauteng,Cape Town,1003.0,
+1029, Henry ,Zuma ,henry.zuma@mail.com,Male,Finance,Senior Analyst,2016-12-16 00:00:00,2018-06-28,,380742.08,USD,U.K.,,Pretoria,1009.0,D
+1030, Isaac,Mthembu,isaac.mthembu@example.com,M,Finance,HR Officer,06-26-2019,,1.0,30002.31,USD,USA,Gauteng,Johannesburg,1027.0,D
+1031,Henry,Brown,henry.brown@mail.com,Male,Information Technology,Senior Analyst,2022-11-11 00:00:00,,1.0,-26089.36,ZAR,United Kingdom,Western Cape,,1021.0,A
+1032,Chipo ,Pillay ,chipo.pillay@mail.com,M,Human Resource,Analyst,2021-10-01 00:00:00,,1.0,47869.64,USD,United Kingdom,Gauteng,Johannesburg,1029.0,A
+1033, Isaac ,Nkosi,isaac.nkosiexample,F,Engineering,HR Officer,2019-01-24 00:00:00,,1.0,15187.09,ZAR,ZA,Limpopo,Cape Town,1019.0,D
+1034,Tari ,Naidoo ,tari.naidoo@example.com,F,H.R.,HR Officer,2015-11-08 00:00:00,2015-12-25,,41425.15,USD,south-africa,Gauteng,Cape Town,1012.0,D
+1035, Bob ,Pillay ,bob.pillay@example,M,Human Resource,Senior Analyst,2018-02-20 00:00:00,,1.0,10227.02,USD,U.K.,Gauteng,Johannesburg,1013.0,B
+1036, Ken,Ndlovu ,ken.ndlovu@mail.com,Other,Operations,HR Officer,06-16-2015,,1.0,27054.09,USD,UK,KZN,Durban,,C
+1037,Isaac,Pillay,isaac.pillay@mail.com,Other,Operations,Accountant,2019-03-05 00:00:00,,1.0,20549.36,GBP,United Kingdom,,,1016.0,D
+1038,Liam,Brown ,liam.brown@mail.com,Female,Human Resource,Analyst,05-27-2020,,1.0,52543.71,ZAR,U.K.,Limpopo,,,D
+1039,Oscar,Mthembu ,oscar.mthembu@company.co.za,Male,Finance,Clerk,2017-11-06 00:00:00,2019-04-22,,56193.93,ZAR,U.K.,KZN,Cape Town,1015.0,D
+1040,Bob ,Dlamini,bob.dlamini@example,Other,Human Resource,Data Scientist,2017-08-11 00:00:00,2022-05-02,,31047.03,USD,United Kingdom,,Johannesburg,1039.0,B
+1041, Bob,Ndlovu,bob.ndlovu@mail.com,F,Human Resource,Engineer,02-16-2015,,0.0,360710.4,USD,south-africa,Limpopo,Johannesburg,1036.0,A
+1042, Una ,Naidoo ,una.naidoo@company.co.za,Female,Engineering,Analyst,2018-03-07 00:00:00,,1.0,32840.16,ZAR,U.K.,,Polokwane,1001.0,D
+1043,David ,Nguyen ,david.nguyen@example,Male,H.R.,Analyst,07-31-2015,,1.0,41816.74,ZAR,SA,KZN,Durban,1011.0,D
+1044,Pat ,Brown,pat.brown@example.com,Female,Sales,Clerk,2015-07-08 00:00:00,2019-09-03,,25965.95,ZAR,U.K.,,,1031.0,A
+1045,Mai ,Khan ,mai.khan@example.com,Other,Operations,Engineer,06-18-2015,,0.0,14499.93,GBP,United Kingdom,,Polokwane,1016.0,D
+1046,Que,Zuma,que.zuma@example,F,Sales,Accountant,2017-05-01 00:00:00,2019-02-08,,13362.82,ZAR,South Africa,,Cape Town,1021.0,A
+1047, Bob,Brown,bob.brown@example.com,F,Operations,Senior Analyst,2017-03-04 00:00:00,,0.0,39597.46,GBP,ZA,Gauteng,,1017.0,C
+1048, Chad,Nguyen ,chad.nguyen@example,M,Finance,Sales Rep,2017-08-30 00:00:00,2018-08-25,,61971.14,USD,south-africa,,Johannesburg,1024.0,
+1049,Que ,Mthembu ,que.mthembu@company.co.za,F,Engineering,Manager,2019-01-15 00:00:00,2022-07-28,,-38232.94,GBP,UK,,Johannesburg,1015.0,D
+1050, Nia,Khan,nia.khan@example,Female,Information Technology,Analyst,2015-04-02 00:00:00,,0.0,28704.74,GBP,United Kingdom,,Cape Town,1040.0,B
+1051,Alice,Brown ,alice.brownexample.com,F,H.R.,Data Scientist,2019-05-07 00:00:00,2024-03-11,,57944.23,GBP,USA,Western Cape,Cape Town,999999.0,A
+1052,Mai,Naidoo,mai.naidooexample.com,M,Sales,Engineer,2016-05-08 00:00:00,,0.0,37847.62,USD,South Africa,,,999999.0,D
+1053, Chipo,van Wyk,chipo.van wyk@example.com,F,Information Technology,Analyst,05-19-2016,,0.0,36217.21,USD,United States,KZN,Durban,1014.0,A
+1054,Faith,Pillay,faith.pillay@company.co.za,M,Engineering,Clerk,09-28-2021,,0.0,38030.93,ZAR,U.K.,,Cape Town,1020.0,
+1055,Sam,Dlamini,sam.dlamini@example.com,Male,Information Technology,Manager,11-13-2018,2019-09-22,,33411.47,ZAR,UK,Western Cape,,,D
+1056,David,Nkosi,david.nkosiexample.com,Other,Operations,Senior Analyst,01-30-2022,2026-08-08,,31286.28,ZAR,UK,KZN,Durban,1049.0,
+1057, Que,Zuma ,que.zuma@example.com,M,Operations,Senior Analyst,2018-11-21 00:00:00,,1.0,17780.44,GBP,ZA,KZN,,999999.0,A
+1058,Pat ,van Wyk ,pat.van wyk@company.co.za,Male,H.R.,Data Scientist,2017-05-29 00:00:00,2021-01-21,,41019.49,ZAR,UK,KZN,Johannesburg,1026.0,D
+1059,Chad ,Govender,chad.govender@company.co.za,F,Sales,Sales Rep,2016-01-12 00:00:00,2019-08-01,,33862.69,ZAR,UK,,Durban,1056.0,C
+1060, Faith ,Zuma,faith.zuma@mail.com,Male,Information Technology,Engineer,2020-10-09 00:00:00,,1.0,49317.03,GBP,United States,KZN,Cape Town,1013.0,B
+1061,Vin ,Dlamini,vin.dlamini@mail.com,Male,Operations,Data Scientist,2019-11-17 00:00:00,,0.0,30574.18,USD,U.K.,,Cape Town,1041.0,B
+1062, Isaac,Mthembu,isaac.mthembu@example,M,Information Technology,HR Officer,07-25-2017,,1.0,12123.56,USD,United Kingdom,,,1027.0,B
+1063, Isaac ,Nguyen ,isaac.nguyen@example.com,Female,Engineering,Sales Rep,07-28-2022,,0.0,33804.67,ZAR,South Africa,KZN,Pretoria,1046.0,
+1064, Liam,Dlamini ,liam.dlamini@example.com,Male,Engineering,Sales Rep,2018-05-11 00:00:00,2022-10-06,,55394.45,GBP,UK,,Johannesburg,1025.0,A
+1065, Nia ,Smith,nia.smith@mail.com,Female,Engineering,Sales Rep,06-15-2017,,1.0,30398.92,GBP,ZA,Limpopo,,1029.0,C
+1066, Vin ,Govender ,vin.govender@mail.com,F,Sales,Clerk,2017-01-08 00:00:00,,0.0,24321.72,USD,UK,Western Cape,,1062.0,A
+1067,Vin ,Ndlovu ,vin.ndlovu@example.com,M,Information Technology,Clerk,07-29-2016,,1.0,20676.9,GBP,south-africa,,Cape Town,,C
+1068,Zed ,Naidoo,zed.naidoo@example.com,Female,Sales,Data Scientist,2017-03-19 00:00:00,2021-12-31,,22399.8,ZAR,SA,Limpopo,Polokwane,1062.0,D
+1069,Henry,Zuma,henry.zuma@company.co.za,Male,Information Technology,Accountant,06-18-2022,,1.0,31397.68,ZAR,South Africa,,,,
+1070,Pat,Zuma,pat.zuma@example,F,Engineering,Senior Analyst,05-23-2022,,1.0,20840.21,ZAR,United Kingdom,KZN,Durban,,C
+1071, Bea,Khan ,bea.khan@example.com,M,Engineering,Data Scientist,2016-06-06 00:00:00,,1.0,52971.67,GBP,South Africa,Limpopo,Durban,1006.0,
+1072,Yara ,Govender,yara.govender@example.com,Male,Information Technology,Accountant,2022-01-05 00:00:00,2022-04-20,,31608.38,ZAR,United Kingdom,,,1039.0,C
+1073,Alice ,Smith,alice.smith@example.com,Male,Engineering,HR Officer,2020-01-03 00:00:00,,1.0,36303.78,GBP,USA,Western Cape,Cape Town,999999.0,A
+1074,Grace,Nguyen ,grace.nguyen@example.com,Male,Information Technology,Engineer,2020-01-21 00:00:00,2024-06-23,,52258.87,USD,United States,,Polokwane,1033.0,A
+1075,Alice,Moyo ,alice.moyo@company.co.za,M,Information Technology,Manager,06-15-2020,,0.0,53039.82,ZAR,UK,,Cape Town,1054.0,C
+1076, Zed ,Brown ,zed.brown@example.com,Other,Information Technology,Clerk,2021-10-17 00:00:00,2026-07-18,,32447.2,GBP,U.K.,,,,A
+1077, Ken ,Pillay,ken.pillay@example.com,M,H.R.,Manager,01-26-2018,,0.0,38983.69,USD,ZA,,Cape Town,1008.0,B
+1078,Isaac ,Mthembu ,isaac.mthembu@example.com,Other,Engineering,Senior Analyst,2017-11-08 00:00:00,,0.0,43820.32,ZAR,south-africa,Western Cape,,1047.0,D
+1079,Yara,Khan,yara.khan@example,Other,Human Resource,Clerk,2022-02-04 00:00:00,,1.0,32685.73,ZAR,ZA,,Polokwane,1028.0,D
+1080,David ,Zuma,david.zuma@company.co.za,F,H.R.,HR Officer,2015-12-09 00:00:00,2018-02-03,,13663.85,ZAR,U.K.,Gauteng,,,B
+1081, Una,Dlamini ,una.dlamini@mail.com,Female,Finance,Engineer,2016-12-06 00:00:00,,0.0,42856.47,ZAR,United Kingdom,,,1062.0,C
+1082,Yara ,Moyo ,yara.moyo@example.com,Female,Engineering,Data Scientist,2019-05-17 00:00:00,,1.0,45732.23,ZAR,USA,,Cape Town,1021.0,A
+1083, Tari,Nguyen ,tari.nguyen@example.com,Female,Engineering,Analyst,2022-01-17 00:00:00,,0.0,39986.03,ZAR,UK,Western Cape,,1058.0,D
+1084, Bea ,Naidoo ,bea.naidoo@mail.com,Female,Finance,Data Scientist,2018-10-02 00:00:00,2021-05-23,,23917.46,GBP,ZA,,Polokwane,,C
+1085,Nia,Pillay,nia.pillay@example,Female,H.R.,Analyst,2018-04-17 00:00:00,,0.0,32647.67,ZAR,United States,KZN,Cape Town,1006.0,C
+1086,Sam,Naidoo,sam.naidoo@mail.com,Male,Human Resource,Senior Analyst,10-28-2021,2022-09-03,,27910.76,ZAR,South Africa,Gauteng,,1053.0,
+1087, Zed ,Ndlovu ,zed.ndlovuexample.com,Other,Operations,Accountant,2016-06-29 00:00:00,2021-03-28,,-31403.47,ZAR,UK,,Polokwane,,B
+1088, Abel ,Nguyen,abel.nguyen@company.co.za,Female,Operations,Accountant,2020-03-01 00:00:00,,1.0,50562.62,ZAR,south-africa,KZN,Durban,999999.0,C
+1089, Alice,Nguyen ,alice.nguyen@example.com,Female,Human Resource,Manager,2015-05-07 00:00:00,,0.0,53354.96,GBP,ZA,Western Cape,Cape Town,1060.0,A
+1090, Una,Smith ,una.smith@example.com,Male,Engineering,HR Officer,2017-11-09 00:00:00,,0.0,43033.02,GBP,SA,,Durban,1055.0,C
+1091,David,Khan ,david.khan@example,F,Information Technology,Analyst,2017-07-12 00:00:00,,0.0,41584.94,ZAR,South Africa,,Pretoria,1087.0,A
+1092, Tari,Dlamini,tari.dlamini@example,M,Human Resource,Data Scientist,2016-08-04 00:00:00,2019-09-07,,43119.55,GBP,United States,Western Cape,Polokwane,1017.0,
+1093,Jane,Pillay ,jane.pillay@example,M,Information Technology,Engineer,04-17-2022,,0.0,34853.09,ZAR,UK,Western Cape,Cape Town,1050.0,A
+1094,Liam ,Naidoo ,liam.naidoo@example,Female,Finance,Data Scientist,2015-08-22 00:00:00,2020-08-09,,34092.04,USD,south-africa,,Cape Town,,D
+1095, Ken,Govender,ken.govender@company.co.za,M,Sales,Senior Analyst,04-30-2020,,1.0,26916.26,GBP,south-africa,Limpopo,Polokwane,,C
+1096,Bea ,Mthembu ,bea.mthembu@example,M,Engineering,Data Scientist,12-16-2018,,0.0,-34329.59,USD,USA,KZN,Cape Town,1019.0,
+1097, Henry ,Dlamini,henry.dlamini@company.co.za,M,Engineering,Analyst,2015-04-15 00:00:00,,0.0,62119.36,GBP,U.K.,,,1088.0,C
+1098, Bob ,Mthembu,bob.mthembu@example.com,Other,Human Resource,HR Officer,03-14-2019,,1.0,45428.47,USD,UK,,Pretoria,1012.0,C
+1099, Chipo,Nguyen,chipo.nguyen@company.co.za,Male,Sales,HR Officer,2022-01-28 00:00:00,,1.0,30894.6,ZAR,UK,,,1006.0,A
+1100,Jane ,van Wyk ,jane.van wyk@example.com,F,Information Technology,Analyst,03-16-2017,,1.0,29336.88,ZAR,United States,,Johannesburg,1010.0,D
+1101, Abel,Zuma,abel.zuma@company.co.za,F,Finance,Clerk,2018-02-02 00:00:00,2021-06-08,,24626.12,ZAR,U.K.,,,,B
+1102,Henry,Nkosi,henry.nkosicompany.co.za,Female,Sales,Data Scientist,2019-10-09 00:00:00,,1.0,39492.44,ZAR,U.K.,KZN,Polokwane,,A
+1103, Faith ,Naidoo,faith.naidoo@example.com,M,Finance,HR Officer,04-19-2021,,0.0,39698.55,USD,United States,Western Cape,Polokwane,1037.0,A
+1104,Isaac ,Govender,isaac.govender@mail.com,M,Human Resource,Engineer,2018-09-01 00:00:00,,0.0,17682.54,USD,ZA,,Polokwane,1075.0,
+1105, Grace,Nkosi ,grace.nkosi@example,Male,Engineering,Sales Rep,2017-05-10 00:00:00,2022-01-19,,40836.02,USD,South Africa,,,999999.0,B
+1106,Yara ,Nguyen,yara.nguyenexample.com,Other,Engineering,Sales Rep,2018-01-05 00:00:00,2020-01-11,,28166.33,USD,SA,KZN,Cape Town,1087.0,D
+1107, Alice,Govender ,alice.govender@company.co.za,F,Human Resource,Manager,2018-04-08 00:00:00,,1.0,416965.2,ZAR,U.K.,Western Cape,,1049.0,C
+1108,Una,Govender ,una.govender@company.co.za,Other,Information Technology,Clerk,2015-01-04 00:00:00,,0.0,36882.13,GBP,South Africa,Western Cape,,1102.0,A
+1109, Nia,van Wyk ,nia.van wyk@example.com,F,Engineering,Accountant,10-25-2018,,0.0,55612.76,GBP,United States,Western Cape,Polokwane,1006.0,C
+1110,Faith,Khan ,faith.khan@mail.com,Other,H.R.,Clerk,2018-11-23 00:00:00,,1.0,29502.48,GBP,ZA,Gauteng,Pretoria,1018.0,C
+1111,Esi,van Wyk ,esi.van wyk@example.com,Male,Operations,Manager,2022-05-08 00:00:00,,0.0,31544.19,USD,USA,Western Cape,Johannesburg,1036.0,C
+1112,Oscar ,Dlamini ,oscar.dlamini@example,F,Finance,Manager,2021-04-02 00:00:00,2025-07-16,,38597.7,USD,south-africa,,Polokwane,,C
+1113,Alice ,Ndlovu ,alice.ndlovumail.com,Other,Operations,Analyst,04-14-2015,,1.0,47671.38,GBP,SA,Gauteng,,1040.0,D
+1114, Faith ,Govender,faith.govender@company.co.za,Male,Engineering,Data Scientist,2017-09-07 00:00:00,2022-04-08,,41790.59,ZAR,USA,Limpopo,Polokwane,1039.0,B
+1115,Will,Nkosi ,will.nkosi@example,Male,Human Resource,Accountant,05-17-2020,2025-03-04,,20197.71,ZAR,South Africa,,,1044.0,B
+1116,Chad ,van Wyk ,chad.van wyk@example.com,Other,Information Technology,Clerk,2021-05-13 00:00:00,,0.0,37194.81,ZAR,U.K.,,Pretoria,1104.0,
+1117, Vin ,Pillay ,vin.pillay@mail.com,Male,Engineering,Sales Rep,2022-02-08 00:00:00,2025-12-28,,35266.94,GBP,U.K.,KZN,Pretoria,1057.0,B
+1118,Faith,Nkosi ,faith.nkosi@example.com,Male,Information Technology,Data Scientist,12-14-2022,2026-03-30,,29851.18,USD,south-africa,Limpopo,Cape Town,,
+1119, David,Zuma,david.zuma@example,Male,H.R.,Clerk,2021-12-09 00:00:00,2021-09-10,,27222.74,GBP,SA,Limpopo,Johannesburg,1112.0,C
+1120, Faith,Ndlovu ,faith.ndlovu@example.com,F,Sales,Sales Rep,2019-01-02 00:00:00,,1.0,55970.93,ZAR,ZA,KZN,Durban,999999.0,D
+1121,David ,Brown,david.brown@example.com,M,H.R.,Manager,03-20-2021,,1.0,30315.36,USD,USA,Gauteng,Johannesburg,1020.0,A
+1122,Zed,Nguyen,zed.nguyen@example,Other,H.R.,Accountant,05-31-2019,,0.0,24848.93,GBP,South Africa,Western Cape,Cape Town,,
+1123, Oscar ,Smith,oscar.smith@company.co.za,Female,Engineering,Engineer,03-26-2015,,1.0,42645.35,ZAR,United States,KZN,Durban,1068.0,A
+1124,Rae,Brown ,rae.brown@example.com,M,Finance,Engineer,2016-01-08 00:00:00,,0.0,36567.48,GBP,U.K.,KZN,Johannesburg,1086.0,
+1125,Liam ,Nkosi,liam.nkosi@mail.com,Male,Information Technology,Accountant,07-17-2019,,1.0,34090.23,USD,United States,,Durban,1025.0,
+1126, Faith ,Pillay ,faith.pillay@example,F,Human Resource,Accountant,2018-07-31 00:00:00,,1.0,44375.62,ZAR,ZA,Gauteng,Polokwane,1115.0,A
+1127,Grace,Nkosi,grace.nkosiexample.com,Female,Information Technology,Clerk,2016-07-13 00:00:00,,1.0,40863.5,USD,South Africa,,Polokwane,1087.0,A
+1128,Bea,Smith ,bea.smith@example,Male,Engineering,Data Scientist,2020-03-12 00:00:00,,0.0,39346.28,USD,SA,Gauteng,Johannesburg,1019.0,C
+1129, Abel ,Ndlovu,abel.ndlovu@company.co.za,Other,Information Technology,Data Scientist,2022-12-24 00:00:00,,0.0,46570.41,USD,SA,KZN,Johannesburg,1026.0,B
+1130, Una,Nkosi,una.nkosi@mail.com,M,Sales,Sales Rep,2017-04-19 00:00:00,,0.0,38403.64,ZAR,United States,Gauteng,Durban,1063.0,B
+1131, Una ,Ndlovu,una.ndlovu@company.co.za,Male,Human Resource,Senior Analyst,2022-05-27 00:00:00,,0.0,27596.94,USD,U.K.,Limpopo,,999999.0,C
+1132,Will,Smith ,will.smith@mail.com,Female,Engineering,Data Scientist,2018-07-05 00:00:00,,1.0,30652.61,ZAR,United Kingdom,KZN,Johannesburg,1125.0,B
+1133, Ken,Govender,ken.govender@mail.com,Female,Operations,Clerk,2015-09-07 00:00:00,2020-06-11,,28748.33,ZAR,South Africa,Western Cape,Durban,1091.0,D
+1134,Vin ,Smith ,vin.smith@example,F,Human Resource,Engineer,2017-04-04 00:00:00,2020-03-02,,37516.66,ZAR,UK,Gauteng,Johannesburg,1125.0,D
+1135,Alice,Naidoo,alice.naidoo@company.co.za,Other,Human Resource,Clerk,05-31-2017,2017-11-25,,22064.18,ZAR,ZA,,Johannesburg,1093.0,A
+1136, Una ,Zuma ,una.zuma@company.co.za,Female,Engineering,Sales Rep,2019-09-13 00:00:00,,0.0,13010.89,ZAR,United States,KZN,,1097.0,A
+1137,Chipo,Nguyen ,chipo.nguyen@company.co.za,Male,Sales,Sales Rep,06-29-2022,2026-10-04,,36057.86,USD,ZA,,,1097.0,D
+1138, Que,Pillay,que.pillay@company.co.za,M,Sales,Clerk,2020-08-11 00:00:00,,1.0,18961.75,GBP,SA,KZN,Cape Town,1040.0,B
+1139,Una ,Nguyen ,una.nguyen@company.co.za,Female,Engineering,Senior Analyst,2019-08-07 00:00:00,2021-09-05,,11576.26,USD,U.K.,KZN,Polokwane,1116.0,
+1140,Esi ,Moyo ,esi.moyo@mail.com,M,Sales,Clerk,2019-11-04 00:00:00,2020-10-23,,39479.97,USD,United Kingdom,Western Cape,Durban,,A
+1141, Grace ,Naidoo ,grace.naidoo@example.com,Male,Engineering,Clerk,2015-06-21 00:00:00,,0.0,26467.36,GBP,ZA,,Pretoria,1053.0,A
+1142, Yara ,Zuma ,yara.zuma@example,Female,Information Technology,Analyst,03-17-2016,,0.0,40953.51,USD,U.K.,Limpopo,Cape Town,1003.0,D
+1143, Rae ,Moyo ,rae.moyo@example,Female,Finance,Senior Analyst,2021-05-27 00:00:00,2025-09-15,,28629.75,USD,USA,Gauteng,Pretoria,1107.0,D
+1144,Abel ,Moyo ,abel.moyo@mail.com,F,Human Resource,Manager,2021-01-16 00:00:00,,0.0,21536.45,USD,South Africa,KZN,Durban,1098.0,C
+1145,Jane,Nkosi,jane.nkosi@company.co.za,Female,Information Technology,Accountant,12-17-2022,,1.0,20077.79,GBP,UK,Gauteng,Pretoria,999999.0,D
+1146,Jane ,Nkosi ,jane.nkosi@example,Other,Finance,Analyst,2017-07-01 00:00:00,2021-12-08,,28820.87,GBP,United States,,,1057.0,B
+1147,Rae,Nguyen,rae.nguyen@example.com,Female,Finance,Senior Analyst,07-26-2015,,0.0,31719.41,GBP,SA,Gauteng,Cape Town,,
+1148,Zed ,Ndlovu ,zed.ndlovu@company.co.za,Male,Finance,Manager,06-18-2022,2024-09-03,,25118.48,ZAR,USA,Western Cape,,1086.0,A
+1149,Abel,Ndlovu,abel.ndlovu@company.co.za,Female,Human Resource,Accountant,2016-01-16 00:00:00,,1.0,31626.71,ZAR,United Kingdom,Gauteng,Pretoria,1001.0,C
+1150, Bob ,Naidoo ,bob.naidoo@example,F,Operations,Clerk,2017-01-02 00:00:00,,1.0,16566.77,ZAR,SA,,Polokwane,999999.0,A
+1007, David,Zuma,david.zuma@example.com,M,Sales,Manager,2016-03-26 00:00:00,2017-02-28,,34989.32,ZAR,U.K.,Western Cape,,1003.0,A
+1004, Sam ,Brown ,sam.brown@example,M,Sales,Senior Analyst,01-19-2016,,1.0,39890.2,GBP,USA,KZN,,1003.0,C
+1114, Faith ,Govender,faith.govender@company.co.za,Male,Engineering,Data Scientist,2017-09-07 00:00:00,2022-04-08,,41790.59,ZAR,USA,Limpopo,Polokwane,1039.0,B
+1013,Que ,Khan,que.khan@example.com,F,H.R.,Manager,2016-02-08 00:00:00,,0.0,41063.59,ZAR,United States,Gauteng,Cape Town,1001.0,D
+1025, Abel ,Khan ,abel.khan@mail.com,M,Finance,Senior Analyst,2021-07-09 00:00:00,,0.0,34455.37,GBP,United Kingdom,Gauteng,,1016.0,D
