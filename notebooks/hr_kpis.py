@@ -1,3 +1,21 @@
+"""
+Script Name: hr_kpis.py
+
+Purpose:
+This script calculates key HR KPIs from a cleaned employee dataset.
+It generates CSV output files for reporting and analysis.
+
+KPIs Calculated:
+1. Total employees
+2. Active vs inactive employees
+3. Attrition rate
+4. Hires by year
+5. Average salary by department and currency
+
+Output Location:
+notebooks/data/results/
+"""
+
 import pandas as pd
 from pathlib import Path
 
